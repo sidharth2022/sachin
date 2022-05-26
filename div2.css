@@ -1,0 +1,21 @@
+div{
+    width: 50%;
+    height: 300px; ;
+    background-color: rgb(169, 126, 210);
+}
+p{
+    color: rgb(55, 2, 2);
+}
+div{
+    text-align: center;
+    text-decoration: overline underline line-through;
+}
+
+div #p1{
+
+    color: yellowgreen;
+    text-align: left;
+    text-decoration: none;
+    text-decoration: underline;
+
+}

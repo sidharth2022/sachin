@@ -1,0 +1,17 @@
+p{
+    border:10px solid rgb(234, 68, 8);
+}
+#p1{
+    border: 4px double rgb(236, 236, 0);
+    font-size: 40px;
+}
+.c1{
+    font-style: italic;
+    font-size: 30px;
+}
+*{
+    text-align: center;
+}
+h3,h4,h5{
+    background-color: blueviolet;
+}
